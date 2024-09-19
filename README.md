@@ -3,7 +3,7 @@
 #Data analyst
 
 #Looking for opportunities in Data Engineering,
-Backend development, Data analysis,
+Backend development, PowerBI developer, Data analysis,
 Data science
 
 # Can work in R Python Javascript SQL PowerBI 

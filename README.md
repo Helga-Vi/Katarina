@@ -6,7 +6,7 @@
 Backend development, PowerBI developer, Data analysis,
 Data science
 
-# Can work in R Python Javascript SQL PowerBI 
+# Can work in R Python Javascript SQL PowerBI HTML
 
 #Background knowledge in process engineering, 
 biomedicine, aquaculture, economics
